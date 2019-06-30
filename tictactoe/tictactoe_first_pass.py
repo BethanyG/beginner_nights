@@ -8,9 +8,8 @@ import random
 
 
 def draw_board(board):
-    # This function prints out the board that it was passed.
+    # "board" is a list of 10 strings representing the board (index 0 is empty)
 
-    # "board" is a list of 10 strings representing the board (ignore index 0)
 
     print(f'-1---2---3--')
     print(f' {board[1]} | {board[2]} | {board[3]}')
@@ -21,14 +20,15 @@ def draw_board(board):
 
 
 def player_input_letter():
-    # Lets the player type which letter they want to be.
-    # Returns a tuple (player's letter,  computer's letter) as the second.
+    # Player types which letter they want to be.
+    # Returns tuple(player's letter,  computer's letter)
+
     letter = ''
     while not (letter == 'X' or letter == 'O'):
         print('Do you want to be X or O?')
         letter = input().upper()
 
-    # the first element is the player's letter, the second is the computer's letter.
+    # the first element is the player, the second is the computer.
     if letter == 'X':
         return ('X', 'O')
     else:
@@ -91,7 +91,7 @@ def is_space_free(board, move):
     return board[move] == ' '
 
 def get_player_move(board):
-    # Let the player type in his move.
+    # Let the player type in their move.
     move = ' '
     moves = ('1', '2', '3', '4', '5', '6', '7', '8', '9')
     while move not in moves or not is_space_free(board, int(move)):
@@ -100,8 +100,7 @@ def get_player_move(board):
     return int(move)
 
 def choose_random_move(board, moves_list):
-    # Returns valid move from the passed list on the passed board.
-    # Returns None if there is no valid move.
+    # Returns valid move or None for passed board.
     possible_moves = []
     for item in moves_list:
         if is_space_free(board, item):
@@ -113,14 +112,14 @@ def choose_random_move(board, moves_list):
         return None
 
 def get_computer_move(board, computer_letter):
-    # Given a board and the computer's letter, determine where to move.
+    # Given a board & the computer's letter, determine move.
     if computer_letter == 'X':
         player_letter = 'O'
     else:
         player_letter = 'X'
 
-    # Here is our algorithm for our Tic Tac Toe AI:
-    # First, check if we can win in the next move
+    # Algorithm Tic Tac Toe:
+    # First, check if there is a win in the next move
     for number in range(1, 10):
         copy = board_copy(board)
         if is_space_free(copy, number):
@@ -128,7 +127,7 @@ def get_computer_move(board, computer_letter):
             if is_winner(copy, computer_letter):
                 return number
 
-    # Check if the player could win on his next move, and block them.
+    # Then check if *player* can win on their next move & attempt a block.
     for number in range(1, 10):
         copy = board_copy(board)
         if is_space_free(copy, number):
@@ -136,20 +135,20 @@ def get_computer_move(board, computer_letter):
             if is_winner(copy, player_letter):
                 return number
 
-    # Try to take one of the corners, if they are free.
+    # Try to take one of the corners.
     move = choose_random_move(board, [1, 3, 7, 9])
     if move != None:
         return move
 
-    # Try to take the center, if it is free.
+    # Try to take the center.
     if isSpaceFree(board, 5):
         return 5
 
-    # Move on one of the sides.
+    # Try one of the sides.
     return choose_random_move(board, [2, 4, 6, 8])
 
 def is_board_full(board):
-    # Return True if every space has been taken.
+    # True if every space is taken.
     for number in range(1, 10):
         if is_space_free(board, number):
             return False
@@ -157,6 +156,8 @@ def is_board_full(board):
 
 
 print('Welcome to TicTacToe!')
+
+#Main Game Loop
 
 while True:
     # Reset the board
@@ -166,6 +167,7 @@ while True:
     print(f'The {turn} will go first.')
     game_is_playing = True
 
+    #play loop
     while game_is_playing:
         if turn == 'player':
             draw_board(game_board)
@@ -200,6 +202,7 @@ while True:
                 else:
                     turn = 'player'
 
+    #If player answers "no" they do not want to play again
     if not play_again():
         print('Thank you for playing!')
         break
