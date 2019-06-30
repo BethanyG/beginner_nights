@@ -6,13 +6,12 @@ Created on Mon Apr  9 23:20:54 2018
 
 
 def draw_board(board):
-    # This function prints out the board that it was passed.
-    # "board" is a list of 10 strings representing the board (ignoring index 0)
+    # "board" is a list of 10 strings representing the board (index 0 is empty)
     pass
 
 def player_input_letter():
-    # Lets the player type which letter they want to be.
-    # Returns a tuple (player's letter,  computer's letter) as the second.
+    # Player types which letter they want to be.
+    # Returns tuple(player's letter,  computer's letter)
     pass
 
 def first_move():
@@ -61,14 +60,14 @@ def get_player_move(board):
     pass
 
 def choose_random_move(board, moves_list):
-    # Returns valid move or None if there is no valid move.
+    # Returns valid move or None for passed board.
     pass
 
 def get_computer_move(board, computer_letter):
-    # Given a board & the computer's letter, determine where to move.
+    # Given a board & the computer's letter, determine move.
     pass
 
-    # Algorithm Tic Tac Toe AI:
+    # Algorithm Tic Tac Toe:
     # First, check if there is a win in the next move
     pass
 
@@ -85,7 +84,7 @@ def get_computer_move(board, computer_letter):
     pass
 
 def is_board_full(board):
-    # Return True if every space is taken.
+    # True if every space is taken.
     pass
 
 print('Welcome to TicTacToe!')
@@ -100,7 +99,7 @@ while True:
     while game_is_playing:
         pass
 
-    #If player answers "no" they do not want to play agqin
+    #If player answers "no" they do not want to play again
     if not play_again():
         print('Thank you for playing!')
 
