@@ -1,8 +1,6 @@
 #  TicTacToe :  Not Just a Kids Game!
 
-
-
-Welcome!  In this first "beginner project", we're going to start with building a small TicTacToe game that we can "draw" & play on the command line.  Then we're going to refactor it & add a clickable GUI using the Python Turtle module.
+**Welcome!**  In this first "beginner project", we're going to start with building a small TicTacToe game that we can "draw" & play on the command line.  Then we're going to refactor it & add a clickable GUI using the Python Turtle module.
 
 _**Don't worry if this is all new to you**_  There will be more than enough time for questions & discussion as we move along. 
 
@@ -10,23 +8,13 @@ _**Don't be fooled by this "little game"**_   This small, contained project cont
 
 _**Don't be intimidated**_  All this code is just an example and a place for you to get started with projects of your own.  There's no expectation that you master all of this - only that you start to play with many of the cool features that come packaged with core Python.
 
-
-
-The topics touched on/covered are listed below, followed by a list/links to some warm-up exercises.  The main code files are in the tictactoe folder:
-
-
-
-1. _**titactoe_stub.py**_ is an empty file with just the names of the functions we'll be writing.
-2. _**tictactoe_first_pass.py**_ is a "first implementation" of the command-line ticttactoe game.  It doesn't include many data structures or other optimizations.
-3. _**tictactoe_first_refactor.py**_ is a "refactor" or re-write of #2 above, with added data structures, comprehensions, ternary expressions, and list slices to "clean up" and compress the command-line code a bit.
-4. _**tictatoe_add_turtle.py**_ takes the command-line tictactoe and re-writes it with a GUI using the Turtle module.
-5. _**turtle_coords.py**_ is a bunch of functions to print out different figures and coordinates for use in the Turtle/GUI version of the game.
+----
 
 
 
 ### Python Topics Included:
 
-_Here are some docs and posts to refer to as we go through the project.  Don't feel like you have to read all of them.  Also  feel free to propose some of your own to help others!_
+_Here's some docs & posts to refer to as we go through the project.  Don't feel like you have to read all of them.  Also  feel free to propose some of your own resources to help others!_
 
 
 
@@ -146,33 +134,46 @@ _Here are some docs and posts to refer to as we go through the project.  Don't f
 
   [**Python 3.7 Documentation:  Programming FAQ**](https://docs.python.org/3/faq/programming.html)
 
-  
 
 
 
-### Links to Warm-up Exercises
+
+
+## Links to Warm-up Exercises
+
+_These are little warm-ups and "drill" exercises around some of the topics above.  You can find them all in the "warmups" folder._
 
 
 
 * Working with Lists & Tuples using `index notation`
-
 * More List `indexing` and `list slicing`
-
 * `for` and `while` loops practice
-
 * Creating, updating, & and iterating through lists using `for` and `while` loops.
-
 * Re-writing loops as `list comprehensions`
-
 * Re-writing `if`...`else` statements as `ternary expressions`
-
 * Some simple `functions`
-
 * `Dictionaries` in Python
-
 * Drawing figures with `Turtle`
 
-  
+
+
+
+
+## Links to Code Files
+
+_These are code files for the game at various stages.  You can find them all in the Tictactoe folder._
+
+
+
+* _**titactoe_stub.py**_ is an empty file with just the names of the functions we'll be writing.
+
+*  _**tictactoe_first_pass.py**_ is a "first implementation" of the command-line ticttactoe game.  It doesn't include many data structures or other optimizations.
+
+*  _**tictactoe_first_refactor.py**_ is a "refactor" or re-write of #2 above, with added data structures, comprehensions, ternary expressions, and list slices to "clean up" and compress the command-line code a bit.
+
+* _**tictatoe_add_turtle.py**_ takes the command-line tictactoe and re-writes it with a GUI using the Turtle module.
+
+* _**turtle_coords.py**_ is a bunch of functions to print out different figures and coordinates for use in the Turtle/GUI version of the game.
 
 
 
