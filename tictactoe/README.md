@@ -50,7 +50,11 @@ _Here's some docs & posts to refer to as we go through the project (click the ar
 </details>
   <details>
       <summary>
-		Tuples - indexing, iterating
+	      
+	      
+		`Tuples` - indexing, iterating
+		
+		
 	</summary>
 	
 
