@@ -50,8 +50,8 @@ _Here's some docs & posts to refer to as we go through the project (click the ar
 </details>
   <details>
       <summary>
-		Tuples - indexing, iterating
-	</summary>
+	 Tuples - indexing, iterating
+      </summary>
 	
 
  *   [**Real Python: Lists and Tuples**](https://realpython.com/python-lists-tuples/)
@@ -60,8 +60,8 @@ _Here's some docs & posts to refer to as we go through the project (click the ar
 </details>
 <details>
       <summary>
-		Dictionaries - making, using
-	</summary>
+	Dictionaries - making, using
+      </summary>
 	
 	
  *   [**Real Python: Dictionaries in Python**](https://realpython.com/python-dicts/)
