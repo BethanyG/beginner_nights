@@ -159,7 +159,7 @@ _Here's some docs & posts to refer to as we go through the project (click the ar
 </summary>
 
 *   [**Python 3.7 Documentation on Turtle Graphics**](https://docs.python.org/3.3/library/turtle.html?highlight=turtle)
-*   [**Cheat Sheet for Turtle (in repo)**]()
+*   [**Cheat Sheet for Turtle**](../tictactoe/Here's%20a%20Little%20Turtle%20Cheat%20Sheet.md)
 
 </details>
 <details>
