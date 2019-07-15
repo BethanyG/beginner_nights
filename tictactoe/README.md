@@ -208,6 +208,6 @@ _These are code files for the game at various stages.  You can find them all in 
 
 *  [**tictactoe_first_refactor.py**](../tictactoe/code/tictactoe_first_refactor.py)  is a "refactor" or re-write of #2 above, with added data structures, comprehensions, ternary expressions, and list slices to "clean up" and compress the command-line code a bit.
 
-* [**tictatoe_add_turtle.py**](../tictactoe/code/tictatoe_add_turtle.py)  takes the command-line tictactoe and re-writes it with a GUI using the Turtle module.
+* [**tictatoe_add_turtle.py**](../tictactoe/code/tictactoe_add_turtle.py)  takes the command-line tictactoe and re-writes it with a GUI using the Turtle module.
 
 * [**turtle_coords.py**](../tictactoe/code/turtle_coords.py)  is a bunch of functions to print out different figures and coordinates for use in the Turtle/GUI version of the game.
