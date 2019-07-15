@@ -35,7 +35,7 @@ Lists typically contain items that are similar to each other, whereas tuples usu
 
 ```python
 sample_data     = ["apple", "pear", "banana", "cherry", "grape", "watermelon", "strawberry",
-			       "mango" "pineapple", "blueberry", "blackberry", "raspberry", "peach", "plum"]
+"mango" "pineapple", "blueberry", "blackberry", "raspberry", "peach", "plum"]
 
 second_sample = ("dog", "cat", "parrot", "fish", "guinea pig" )
 ```
