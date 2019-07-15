@@ -182,10 +182,10 @@ _These are little warm-ups and "drill" exercises around some of the topics above
 
 
 
-* [**Working with Lists & Tuples using `index notation`**]()
-* [**More List `indexing` and `list slicing`**]()
-* [**`for` and `while` loops practice**]()
-* [**Creating, updating, & and iterating through lists using `for` and `while` loops.**]()
+* [**Working with Lists & Tuples**](tictactoe/warmups/Lists & Tuples Exercises.md)
+* [**List & Tuple `indexing` & `slicing`**]()
+* [**`for` & `while` loops practice**]()
+* [**Creating, updating, & and iterating through lists using `for` & `while` loops.**]()
 * [**Re-writing loops as `list comprehensions`**]()
 * [**Re-writing `if`...`else` statements as `ternary expressions`**]()
 * [**Some simple `functions`**]()
