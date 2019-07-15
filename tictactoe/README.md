@@ -202,7 +202,7 @@ _These are code files for the game at various stages.  You can find them all in 
 
 
 
-* [**tictactoe_stub.py** ](../tictactoe/code/tictactoe_stup.py) is an empty file with just the names of the functions we'll be writing.
+* [**tictactoe_stub.py** ](../tictactoe/code/tictactoe_stub.py) is an empty file with just the names of the functions we'll be writing.
 
 *  [**tictactoe_first_pass.py**](../tictactoe/code/tictactoe_first_pass.py)  is a "first implementation" of the command-line ticttactoe game.  It doesn't include many data structures or other optimizations.
 
