@@ -159,7 +159,7 @@ _Here's some docs & posts to refer to as we go through the project (click the ar
 </summary>
 
 *   [**Python 3.7 Documentation on Turtle Graphics**](https://docs.python.org/3.3/library/turtle.html?highlight=turtle)
-*   [**Cheat Sheet for Turtle (in repo)**]()
+*   [**Cheat Sheet for Turtle**](../tictactoe/Here's%20a%20Little%20Turtle%20Cheat%20Sheet.md)
 
 </details>
 <details>
@@ -202,12 +202,12 @@ _These are code files for the game at various stages.  You can find them all in 
 
 
 
-* [**titactoe_stub.py** ]()  is an empty file with just the names of the functions we'll be writing.
+* [**tictactoe_stub.py** ](../tictactoe/code/tictactoe_stub.py) is an empty file with just the names of the functions we'll be writing.
 
-*  [**tictactoe_first_pass.py**]()  is a "first implementation" of the command-line ticttactoe game.  It doesn't include many data structures or other optimizations.
+*  [**tictactoe_first_pass.py**](../tictactoe/code/tictactoe_first_pass.py)  is a "first implementation" of the command-line ticttactoe game.  It doesn't include many data structures or other optimizations.
 
-*  [**tictactoe_first_refactor.py**]()  is a "refactor" or re-write of #2 above, with added data structures, comprehensions, ternary expressions, and list slices to "clean up" and compress the command-line code a bit.
+*  [**tictactoe_first_refactor.py**](../tictactoe/code/tictactoe_first_refactor.py)  is a "refactor" or re-write of #2 above, with added data structures, comprehensions, ternary expressions, and list slices to "clean up" and compress the command-line code a bit.
 
-* [**tictatoe_add_turtle.py**]()  takes the command-line tictactoe and re-writes it with a GUI using the Turtle module.
+* [**tictatoe_add_turtle.py**](../tictactoe/code/tictactoe_add_turtle.py)  takes the command-line tictactoe and re-writes it with a GUI using the Turtle module.
 
-* [**turtle_coords.py**]()  is a bunch of functions to print out different figures and coordinates for use in the Turtle/GUI version of the game.
+* [**turtle_coords.py**](../tictactoe/code/turtle_coords.py)  is a bunch of functions to print out different figures and coordinates for use in the Turtle/GUI version of the game.
