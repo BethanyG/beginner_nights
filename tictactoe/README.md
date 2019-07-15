@@ -183,7 +183,7 @@ _These are little warm-ups and "drill" exercises around some of the topics above
 
 
 * [**Working with Lists & Tuples**](../tictactoe/warmups/Lists%20%26%20Tuples%20Exercises.md)
-* [**List & Tuple `indexing` & `slicing`**]()
+* [**List & Tuple `indexing` & `slicing`**](../tictactoe/warmups/Lists%20%26%20Tuples%20Slicing%20Exercises.md)
 * [**`for` & `while` loops practice**]()
 * [**Creating, updating, & and iterating through lists using `for` & `while` loops.**]()
 * [**Re-writing loops as `list comprehensions`**]()
