@@ -7,13 +7,13 @@
 <table style="border: none;">
   <tr style="border: none;">
     <th style="border: none;"><img align="left" height="100" src="../images/Waterworks List.png"></th>
-    <td width="30%" align="right" style="border: none;"><em><h6>"A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements ... Just as strings are defined as characters between quotes, lists are defined by having values between square brackets [ ].  
+    <td width="40%" align="right" style="border: none;"><em><h6>"A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements ... Just as strings are defined as characters between quotes, lists are defined by having values between square brackets [ ].  
 <br><br>
 Lists are great to use when you want to work with many related values. They enable you to keep data together that belongs together, condense your code, & perform the same methods & operations on multiple values at once." <br><br>Lisa Tagliaferri, DigitalOcean, LLC  <a href="https://www.digitalocean.com/community/tutorials/understanding-lists-in-python-3">Understanding Lists </a></h6></em></td>
   </tr>
   <tr>
    <th style="border: none;"><img align="left" height="100" src="../images/Fireworks Tuple.png"></th>
-    <td width="50%" align="right" style="border: none;"><em><h6>"A Tuple is a comma-separated sequence of values very similar to a list ... the main difference between tuples & lists is that lists are mutable & tuples are not ... if [a tuple] needs to be changed, a new object must be created.  
+    <td width="40%" align="right" style="border: none;"><em><h6>"A Tuple is a comma-separated sequence of values very similar to a list ... the main difference between tuples & lists is that lists are mutable & tuples are not ... if [a tuple] needs to be changed, a new object must be created.  
 <br><br>
 Lists typically contain items that are similar to each other, whereas tuples usually contain items that are diverse in type or character. However, there's no hard and fast rule to this. But if you want to be able to update the individual items, use a list. Otherwise, use a tuple." <br><br>Quackit.com,  <a href="https://www.quackit.com/python/tutorial/python_tuples.cfm">Python Tuples</a></em></h6></td>
   </tr>
