@@ -185,8 +185,8 @@ _These are little warm-ups and "drill" exercises around some of the topics above
 * [**Working with Lists & Tuples**](../tictactoe/warmups/Lists%20%26%20Tuples%20Exercises.md)
 * [**List & Tuple `indexing` & `slicing`**](../tictactoe/warmups/Lists%20%26%20Tuples%20Slicing%20Exercises.md)
 * [**`for` & `while` loops practice**](../tictactoe/warmups/for_and_while_loops_exercises.md)
-* [**Creating, updating, and iterating through lists**](../tictactoe/warmups/Looping and Lists.md)
-* [**Re-writing loops as `list comprehensions` and `if`...`else` statements as `ternary expressions`**](../tictactoe/warmups/comprehensions and ternaries.md)
+* [**Creating, updating, and iterating through lists**](../tictactoe/warmups/Looping%20and%20Lists.md)
+* [**Re-writing loops as `list comprehensions` and `if`...`else` statements as `ternary expressions`**](../tictactoe/warmups/comprehensions%20and%20ternaries.md)
 * [**`Dictionaries` in Python**]()
 * [**Drawing figures with `Turtle`**]()
 
