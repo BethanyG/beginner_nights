@@ -52,3 +52,22 @@
 
 
 ### Exercises
+
+```python
+
+words = ['Alligator', 'Aardvark', 'Pig', 'Bear', 'Moose', 'Python', 'Mouse', 'Owl', 'Giraffe']
+numbers=[1,2,3,4,5,6,7,8,9]
+
+
+```
+
+&nbsp;
+
+
+1.  Using the **words**  list above, create a loop that only prints out the words containing one or more `'a'` characters.
+2.  Using the  **words** list above, create a new list that contains the words along with how long each is.  (_**Hint:**  Tuples might be really handy here to enclose the data about each word_)
+3.   Make a new list that has the squares of each number in the **numbers** list
+4.   Print each word in the **words** list as many times as it's corresponding index on the list.
+5.   Go through the **numbers** list and `pop()` each number, printing its cube.
+6.   Print only the odd **numbers** and only the **even** (by index) **words**  (_**Hint**:  Slicing could help here!_)
+7.   Go through the **words** list in _**reverse**_ order, and reverse each word.  (_**Hint**:  Slicing could help here!_)
