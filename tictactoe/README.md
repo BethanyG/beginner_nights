@@ -75,7 +75,7 @@ _Here's some docs & posts to refer to as we go through the project (click the ar
 
  *   [**Python 3.7 Looping Techniques Documentation**](https://docs.python.org/3/tutorial/datastructures.html#looping-techniques)
  *  [**Real Python:  Pythons While Loop**](https://realpython.com/python-while-loop/)
- *   [**Real Python:  Pythons For Loop**](https://realpython.com/courses/python-for-loop/)
+ *   [**Real Python:  Pythons For Loop**](https://realpython.com/python-for-loop/)
 
 
 </details>
