@@ -8,7 +8,7 @@
   <tr style="border: none;">
     <th style="border: none;"><img align="left" src="../images/While Loop.png"></th>
     
-   <th style="border: none;"><img align="left"  src="../images/For Loop.png"></th>
+   <th style="border: none;"><img align="left"  src="../images/For_Loop.png"></th>
    
 </table>
 </div>

@@ -6,7 +6,7 @@
 <div width="95%">
 <table style="border: none;">
   <tr style="border: none;">
-    <th style="border: none;"><img align="left" src="../images/For loop.png"><br></th>
+    <th style="border: none;"><img align="left" src="../images/For_Loop.png"><br></th>
     <td width="50%" align="right" style="border: none;"><img align="left" src="../images/While Loop.png"><br></td>
   </tr>
   <tr>
