@@ -186,9 +186,7 @@ _These are little warm-ups and "drill" exercises around some of the topics above
 * [**List & Tuple `indexing` & `slicing`**](../tictactoe/warmups/Lists%20%26%20Tuples%20Slicing%20Exercises.md)
 * [**`for` & `while` loops practice**]()
 * [**Creating, updating, & and iterating through lists using `for` & `while` loops.**]()
-* [**Re-writing loops as `list comprehensions`**]()
-* [**Re-writing `if`...`else` statements as `ternary expressions`**]()
-* [**Some simple `functions`**]()
+* [**Re-writing loops as `list comprehensions` & `if`...`else` statements as `ternary expressions`**]()
 * [**`Dictionaries` in Python**]()
 * [**Drawing figures with `Turtle`**]()
 
