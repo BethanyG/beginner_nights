@@ -188,7 +188,7 @@ _These are little warm-ups and "drill" exercises around some of the topics above
 * [**Creating, updating, and iterating through lists**](../tictactoe/warmups/Looping%20and%20Lists.md)
 * [**Re-writing loops as `list comprehensions` and `if`...`else` statements as `ternary expressions`**](../tictactoe/warmups/comprehensions%20and%20ternaries.md)
 * [**`Dictionaries` in Python**]()
-* [**Drawing figures with `Turtle`**](../tictactoe/warmups/Turtle Graphics.md)
+* [**Drawing figures with `Turtle`**](../tictactoe/warmups/Turtle%20Graphics.md)
 
 
 &nbsp;
