@@ -67,12 +67,15 @@ for index, item in enumerate(numbers_group):
 
 ### General Review
 
-**Comprehensions**  _flatten_ the loops used to create different data structures such as Lists, Dictionaries, or Sets.
+*  [**Comprehensions**](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)  _flatten_ the loops used to create different data structures such as Lists, Dictionaries, or Sets.
+	*  Execute slightly faster than their loop equivalents, because they  execute directly in C instead of the Python interpreter.
+	*  Can include conditional tests
+	*  Can be _nested_ (thereby flattening a nested loop)
+	*  Can be used to create Lists, Sets, Dictionaries & more.
+*  [**Ternary Operators**](https://syntaxdb.com/ref/python/ternary) _flatten_ the **`if`** .... **`else`** conditional statements (_but not if they're complex or include an **`elif`**_)
 
 
-
-
-
+&nbsp;
 
 
 **Data**
@@ -160,7 +163,7 @@ for index, item in enumerate(words):
 
 ----
 
-**Ternary Expressions** -- _if the conditional is in a loop, only replace the conditional part_
+**Ternary Operators** -- _if the conditional is in a loop, only replace the conditional part_
 
 
 **Data**
