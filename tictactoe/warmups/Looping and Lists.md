@@ -67,7 +67,7 @@ numbers=[1,2,3,4,5,6,7,8,9]
 &nbsp;
 
 
-1.  Using the **words**  list above, prints out the words containing one or more `'a'` characters.
+1.  Using the **words**  list above, print out the words containing one or more `'a'` characters.
 2.  Using the  **words** list, create a new list that contains the words along with how long each is.  
      * (_**Hint:**  Tuples might be really handy here to enclose the data about each word_)
 3.   Make a new list that has the squares of each number in the **numbers** list
