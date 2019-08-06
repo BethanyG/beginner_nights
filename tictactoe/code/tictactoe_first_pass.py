@@ -121,7 +121,7 @@ def get_computer_move(board, computer_letter):
     # Algorithm Tic Tac Toe:
     # First, check if there is a win in the next move
     for number in range(1, 10):
-        copy = board_copy(board)
+        copy = board[:]
         if is_space_free(copy, number):
             make_move(copy, computer_letter, number)
             if is_winner(copy, computer_letter):
