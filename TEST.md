@@ -2,7 +2,6 @@
 
 Python is an interpreted, dynamically (but strongly) typed, and garbage-collected general programming language that has become extremely popular due to its readability, low barrier for entry, and exceptionally deep ecosystem of libraries and tools. Python is object-based, but is inherently multi-paradigm and has drawn together influences from a wide range of programming languages, including ABC, Haskell, Lisp, and Modula-3. It is ideal for prototyping and ad-hoc tasks, but also sees wide use in scientific computing, web development, and automation.
 
-
 ## Concepts
 
 Below are the concepts that were extracted/identified in Python based on Exercism's V2 exercises and topics in the [Python 3 Documentation](https://docs.python.org/3/) -- specifically the [Python Tutorial](https://docs.python.org/3/tutorial/index.html) and the [Python Library Reference](https://docs.python.org/3/library/index.html)
@@ -19,7 +18,6 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 
 ## Baseline
 
-
 <details>
     <summary> Concepts Introduced in "Guidos Gorgeous Lasagna":
       <br>
@@ -30,20 +28,23 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 - [ ] [Arithmetic][arithmetic-general]
 - [ ] [Assignment][assignment]
 - [ ] [Comments][comments-general]
+
   - [ ] TODO: Explain # syntax in Python
 
 - [ ] [Constants][constants]
 - [ ] [Docstrings][docstrings]
 - [ ] [Expressions][expressions]
 - [ ] [Functions][functions-general]
+
   - [ ] [Function Definition][function_definition]
     - [ ] [`def`][keyword-def]
     - [ ] [`pass`][keyword-pass]
     - [ ] [`None`][keyword-none]
     - [ ] [Return Values][return-value]
-        - [ ] [`return`][keyword-return]
+      - [ ] [`return`][keyword-return]
 
 - [ ] Statements
+
   - [ ] TODO: Explain the importance of statements in Python
 
   - [ ] [Variables][variables]
@@ -52,8 +53,8 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 <br>
 
 ## General
-_Concepts needed for a good working understanding of the language_
 
+_Concepts needed for a good working understanding of the language_
 
 <details>
     <summary> Current "core" concepts/exercises:
@@ -64,17 +65,21 @@ _Concepts needed for a good working understanding of the language_
 
 - [ ] [Argument unpacking][argument-unpacking]
 - [ ] [Arithmetic][arithmetic-general]
+
   - [ ] [Modular Division][modular-division]
   - [ ] [Arithmetic Operators][arithmetic-operators]
 
 - [ ] [Bitwise manipulation][bitwise-manipulation-general]
+
   - [ ] [Binary numbers][binary-numbers]
   - [ ] [Bitflags][bitflags]
   - [ ] [Bitwise operators][bitwise-operators]
   - [ ] [Powers of Two][powers-of-two]
 
 - [ ] [Boolean logic][boolean-logic-general]
+
   - [ ] [Boolean values][boolean-values]
+
     - [ ] [Booleans are integers][booleans-are-integers]
     - [ ] [`True`][keyword-true]
     - [ ] [`False`][keyword-false]
@@ -86,6 +91,7 @@ _Concepts needed for a good working understanding of the language_
       - [ ] [`or`][keyword-or]
 
 - [ ] [Comparisons][comparisons-general]
+
   - [ ] [Comparison operators][comparison-operators]
   - [ ] [Integer comparison][integer-comparison]
   - [ ] [Rich comparison methods][rich-comparison-methods]
@@ -94,6 +100,7 @@ _Concepts needed for a good working understanding of the language_
   - [ ] [Inequality][inequality]
 
 - [ ] [Conditionals][conditionals-general]
+
   - [ ] [Conditionals structures][conditional-structures]
     - [ ] [`if`][keyword-if]
     - [ ] [`elif`][keyword-elif]
@@ -102,11 +109,14 @@ _Concepts needed for a good working understanding of the language_
 - [ ] [`dict`][builtin-types-dict]
 
 - [ ] [Enumeration][enumeration]
+
   - [ ] [Enumerated values][enumerated-values]
   - [ ] [`enumerate()`][builtin-functions-enumerate]
 
 - [ ] [Functions][functions-general]
+
   - [ ] [Function Definition][function_definition]
+
     - [ ] [`def`][keyword-def]
     - [ ] [Function signature][function-signature]
       - [ ] [Arguments & parameters][arguments-and-parameters]
@@ -127,37 +137,46 @@ _Concepts needed for a good working understanding of the language_
   - [ ] [Call semantics][call-semantics]
 
 - [ ] [Identity testing][identity-testing]
+
   - [ ] [`is`][keyword-is]
 
 - [ ] [Importing][importing]
+
   - [ ] [relative imports][relative-imports]
   - [ ] [`import`][keyword-import]
   - [ ] [`from`][keyword-from]
   - [ ] [`as`][keyword-as]
 
 - [ ] [Iteration][iteration]
+
   - [ ] [Iterables][iterables]
   - [ ] [Iterators][iterators]
 
   - [ ] [Loops][loops-general]
-      - [ ] [`while` loops][while-loops]
-        - [ ] [`while`][keyword-while]
 
-      - [ ] [`for` loops][for-loops]
-        - [ ] [`for`][keyword-for]
-        - [ ] [`range`][builtin-types-range]
+    - [ ] [`while` loops][while-loops]
 
-      - [ ] [Exiting loops][exiting-loops]
-        - [ ] [`break`][keyword-break]
-        - [ ] [`continue`][keyword-continue]
+      - [ ] [`while`][keyword-while]
+
+    - [ ] [`for` loops][for-loops]
+
+      - [ ] [`for`][keyword-for]
+      - [ ] [`range`][builtin-types-range]
+
+    - [ ] [Exiting loops][exiting-loops]
+      - [ ] [`break`][keyword-break]
+      - [ ] [`continue`][keyword-continue]
 
 - [ ] [Membership testing][membership-testing]
+
   - [ ] [`in`][keyword-in]
 
 - [ ] [Numbers]
+
   - [ ] [`int`][builtin-types-int]
   - [ ] [`float`][builtin-types-float]
   - [ ] [`complex`][builtin-types-complex]
+
     - [ ] [cmath][library-cmath]
 
   - [ ] [`fractions`][library-fractionsraction]
@@ -165,24 +184,30 @@ _Concepts needed for a good working understanding of the language_
   - [ ] [math][library-math]
 
 - [ ] [Operators][operators]
+
   - [ ] [Operator overloading][operator-overloading]
   - [ ] [Operator precedence][operator-precedence]
 
 - [ ] [REPL][repl]
+
   - [ ] TODO: Discuss the interactive Python interpreter
 
 - [ ] [sequences][builtin-types-sequence]
+
   - [ ] [common sequence operations][common-sequence-operations]
+
     - [ ] [bracket notation][bracket-notation]
       - [ ] [Indexing][indexing]
       - [ ] [Slicing][slicing]
       - [ ] Slice assignment
 
   - [ ] [`list`][builtin-types-list]
+
     - [ ] [List Methods][list-methods]
 
   - [ ] [`range`][builtin-types-range]
   - [ ] [`str`][builtin-types-str]
+
     - [ ] [str-methods][string-methods]
     - [ ] [String formatting][string-formatting]
     - [ ] [str-splitting][string-splitting]
@@ -191,6 +216,7 @@ _Concepts needed for a good working understanding of the language_
   - [ ] [`tuple`][builtin-types-tuple]
 
 - [ ] [Scope][scope]
+
   - [ ] [`del`][keyword-del]
 
   - [ ] [Namespaces][namespaces]
@@ -198,10 +224,12 @@ _Concepts needed for a good working understanding of the language_
     - [ ] [`nonlocal`][keyword-nonlocal]
 
 - [ ] [`set`][builtin-types-set]
+
   - [ ] [`frozenset`][builtin-types-frozenset]
 
 - [ ] [Type conversion][type-conversion]
-  TODO: Casting between types in Python can be a bit unclear; this will need expansion
+      TODO: Casting between types in Python can be a bit unclear; this will need expansion
+
   - [ ] [Type conversion][type-conversion]
 
 - [ ] [Variables][variables]
@@ -214,6 +242,7 @@ _Concepts needed for a good working understanding of the language_
 <br>
 
 ## Detailed
+
 _Concepts needed for a deeper understanding/fluency_
 
 <details>
@@ -224,22 +253,27 @@ _Concepts needed for a deeper understanding/fluency_
 <br>
 
 - [ ] Aliasing
+
   - [ ] [`as`][keyword-as]
   - [ ] [`import`][keyword-import]
 
 - [ ] [Anonymous functions][anonymous-functions-general]
+
   - [ ] [`lambda`][keyword-lambda]
 
 - [ ] [`bytes`][builtin-types-bytes]
+
   - [ ] [`bytearray`][builtin-types-bytearray]
 
 - [ ] [Comprehension Syntax][comprehension-syntax]
+
   - [ ] [List comprehension][list-comprehension]
   - [ ] [Dict comprehension][dict-comprehension]
   - [ ] [Set comprehension][set-comprehension]
   - [ ] [Generator comprehension][generator-comprehension]
 
 - [ ] Context managers
+
   - [ ] [`with`][keyword-with]
 
 - [ ] [Decorators][decorators]
@@ -247,8 +281,10 @@ _Concepts needed for a deeper understanding/fluency_
 - [ ] [Docstrings][docstrings]
 
 - [ ] [Exceptions][exceptions-general]
+
   - [ ] [Exception handling][exception-handling]
   - [ ] [Exception catching][exception-catching]
+
     - [ ] [`try`][keyword-try]
     - [ ] [`except`][keyword-except]
     - [ ] [`else`][keyword-else]
@@ -263,17 +299,21 @@ _Concepts needed for a deeper understanding/fluency_
     - [ ] [`assert`][keyword-assert]
 
 - [ ] [Generators][generators]
+
   - [ ] [`yield`][keyword-yield]
 
 - [ ] [Higher-order functions][higher-order-functions]
+
   - [ ] [Decorators as higher-order functions][decorators-as-higher-order-functions]
   - [ ] [`map`][builtin-functions-map]
   - [ ] [`filter`][builtin-functions-filter]
 
 - [ ] [Partial application][partial-application]
+
   - [ ] TODO: `functools.partial`
 
 - [ ] [Recursion][recursion]
+
   - [ ] TODO: explain limitations of recursion in Python, ie `RecursionLimit`
 
 - [ ] [Regular Expressions][regular-expressions]
@@ -283,7 +323,6 @@ _Concepts needed for a deeper understanding/fluency_
 
 ## Specific Object-Oriented Concepts
 
-
 <details>
     <summary> OOP-Specific/Class oriented exercises
       <br>
@@ -292,12 +331,14 @@ _Concepts needed for a deeper understanding/fluency_
 <br>
 
 - [ ] [Objects][objects-general]
+
   - [ ] [Everything is an object][everything-is-an-object]
     - [ ] [`type`][builtin-types-type]
     - [ ] [`object`][builtin-types-object]
     - [ ] [`property`][builtin-types-property]
 
 - [ ] [Classes][classes-general]
+
   - [ ] [Custom classes][custom-classes]
     - [ ] [`class`][keyword-class]
   - [ ] [Class members][class-members]
@@ -316,23 +357,28 @@ _Concepts needed for a deeper understanding/fluency_
         - [ ] [Property Decorator][property-decorator]
 
 - [ ] [Inheritance][inheritance-general]
+
   - [ ] [Class inheritance][class-inheritance]
 
 - [ ] [Composition][composition-general]
+
   - [ ] [Class composition][class-composition]
 
 - [ ] [Encapsulation][encapsulation-general]
+
   - [ ] [Non-Public Methods][non-public-methods]
 
 - [ ] [Interfaces][interfaces-general]
+
   - [ ] [Meta Classes][metaclasses]
-      - [ ] [Virtual Base Classes]
-      - [ ] [Abstract Base Classes]
-      - [ ] [`.__subclasshook__() `]
-      - [ ] [`.register()`]
+    - [ ] [Virtual Base Classes]
+    - [ ] [Abstract Base Classes]
+    - [ ] [`.__subclasshook__() `]
+    - [ ] [`.register()`]
   - [ ] [Duck Typing][duck-typing]
 
 - [ ] [Mutation][mutation-general]
+
   - [ ] [Immutability in Python][immutability]
   - [ ] [Mutability in Python][mutability]
 
@@ -343,11 +389,11 @@ _Concepts needed for a deeper understanding/fluency_
     - [ ] [Type Hinting][type-hinting]
     - [ ] [`typing`][typing-module]
 
-
 </details>
 <br>
 
 ## Specialized
+
 _(These are probably outside scope of Exercism Concept exercise, but perhaps good for longer practice exercises that are mentored)_
 
 <details>
@@ -362,13 +408,11 @@ _(These are probably outside scope of Exercism Concept exercise, but perhaps goo
   - [ ] [`await`][keyword-await]
 
 _These will very rarely be encountered in the wild, the first because it's more of an internal implementation detail and the second because it's hyper-specific_:
+
 - [ ] [`slice`][builtin-types-slice]
 - [ ] [`memoryview`][builtin-types-memoryview]
 
-
 </details>
-
-
 
 [anonymous-functions-general]: ../../../reference/concepts/anonymous_functions.md
 [argument-unpacking]: ./concepts/argument_unpacking.md
@@ -591,6 +635,7 @@ _These will very rarely be encountered in the wild, the first because it's more 
 [powers-of-two]: ./concepts/powers_of_two.md
 [property-decorator]: ./concepts/property_decorator.md
 [python-enhancement-proposals]: ./concepts/python_enhancement_proposals.md
+[python-exercises]: https://github.com/exercism/v3/tree/master/languages/python/exercises
 [pythonic]: ./concepts/pythonic.md
 [raise]: ./concepts/raise.md
 [recursion]: ../../../reference/concepts/recursion.md
@@ -621,42 +666,26 @@ _These will very rarely be encountered in the wild, the first because it's more 
 [while-loops]: ./concepts/while_loops.md
 [zen-of-python]: ./concepts/zen_of_python.md
 
-
 <br><br>
 
-## Proposed Implementations
-_Tracking table for concepts that need issues, issues logged/in process, and concept exercise PRs_
+## Implementations in Progress
+<br>
+
+#### Identified concepts that need:
+1.  Issues logged (_Blank issue entry_)
+2.  PRs written (_Issue logged but no PRs/exercise_)
+3.  Are "in process" with completed concept exercise/PR as noted
+
+For "live"/"completed" concept exercises, see the [Python Exercises][python-exercises] table in the `exercices/README.md` doc.
+
+_Concepts flagged as **general** are broad enough that we are questioning if they need a specific concept exercise._
+<br>
+_Concepts flagged **no stand alone** are explained/utilized across multiple concept exercises._
 
 <br>
 
 | Concept Name                       	| Topics Included                                                                                                                                                                                                                                                                                                                                                                                                 	| Issue Link                                                                                                           	| PR Link                                                                                                         	| Exercise Name                                                                                                                          	|
 |------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------	|
-| \*general                          	| [Composition][composition-general]                                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*general                          	| [Data Structures][data-structures]                                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*general                          	| [Encapsulation][encapsulation-general]                                                                                                                                                                                                                                                                                                                                                                          	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*general                          	| [Interfaces][interfaces-general]                                                                                                                                                                                                                                                                                                                                                                                	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*general                          	| [Lookup efficiency][lookup-efficiency]                                                                                                                                                                                                                                                                                                                                                                          	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*general                          	| [Mutation][mutation-general]                                                                                                                                                                                                                                                                                                                                                                                    	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*general                          	| [Mutability in Python][mutability]                                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*general                          	| [Polymorphism][polymorphism-general]                                                                                                                                                                                                                                                                                                                                                                            	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*general                          	| [Recursive data structures][recursive-data-structures]                                                                                                                                                                                                                                                                                                                                                          	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*general                          	| [Scope][scope]                                                                                                                                                                                                                                                                                                                                                                                                  	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*general                          	| [Standard Library][standard-library]                                                                                                                                                                                                                                                                                                                                                                            	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*general                          	| [State][state]                                                                                                                                                                                                                                                                                                                                                                                                  	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [Arguments & Parameters][arguments-and-parameters]                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [Duck Typing][duck-typing]                                                                                                                                                                                                                                                                                                                                                                                      	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [Dynamic Typing][dynamic-typing]                                                                                                                                                                                                                                                                                                                                                                                	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [Everything-is-an-object][everything-is-an-object]                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [del][keyword-del]                                                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [Expressions][expressions]                                                                                                                                                                                                                                                                                                                                                                                      	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [Identity testing][identity-testing]                                                                                                                                                                                                                                                                                                                                                                            	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [Immutability][immutability]                                                                                                                                                                                                                                                                                                                                                                                    	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [Immutability in Python][immutability]                                                                                                                                                                                                                                                                                                                                                                          	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [Operators][operators]                                                                                                                                                                                                                                                                                                                                                                                          	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [Operator precedence][operator-precedence]                                                                                                                                                                                                                                                                                                                                                                      	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [Order of Evaluation][order-of-evaluation]                                                                                                                                                                                                                                                                                                                                                                      	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [type][builtin-types-type]                                                                                                                                                                                                                                                                                                                                                                                      	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
-| \*no stand-alone                   	| [type conversion][type-conversion]                                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
 | aliasing                           	| [as][keyword-as]                                                                                                                                                                                                                                                                                                                                                                                                	| [ ]()                                                                                                                	|                                                                                                                 	|                                                                                                                                        	|
 | argument unpacking                 	| [Argument unpacking][argument-unpacking] splat or astrix operator                                                                                                                                                                                                                                                                                                                                               	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
 | basics                             	| [Assignment][assignment], [Variables][variables], [Constants][constants], [Objects][objects-general], [Functions][functions-general], [Function Definition][function-definition], [Arguments & Parameters][arguments-and-parameters], [def][keyword-def], [return][keyword-return], [Return Values][return-value], [Docstrings][docstrings], [Comments][comments-general],                                      	| [#1999](https://github.com/exercism/v3/issues/1999)                                                                  	| [#2052](https://github.com/exercism/v3/pull/2052)                                                               	| [Guidos Gorgeous Lasagna](https://github.com/exercism/v3/tree/master/languages/python/exercises/concept/guidos-gorgeous-lasagna)       	|
@@ -723,3 +752,29 @@ _Tracking table for concepts that need issues, issues logged/in process, and con
 | text-processing                    	|                                                                                                                                                                                                                                                                                                                                                                                                                 	| [ ]()                                                                                                                	|                                                                                                                 	|                                                                                                                                        	|
 | tuples                             	| [tuple][builtin-types-tuple]                                                                                                                                                                                                                                                                                                                                                                                    	| [#1097](https://github.com/exercism/v3/issues/1097)                                                                  	| [#1824](https://github.com/exercism/v3/pull/1824)                                                               	| [Tisbury Treasure Hunt](https://github.com/exercism/v3/tree/master/languages/python/exercises/concept/tisbury-treasure-hunt)           	|
 | type-hinting                       	| [Type hinting][type-hinting]                                                                                                                                                                                                                                                                                                                                                                                    	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*general                          	| [Composition][composition-general]                                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*general                          	| [Data Structures][data-structures]                                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*general                          	| [Encapsulation][encapsulation-general]                                                                                                                                                                                                                                                                                                                                                                          	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*general                          	| [Interfaces][interfaces-general]                                                                                                                                                                                                                                                                                                                                                                                	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*general                          	| [Lookup efficiency][lookup-efficiency]                                                                                                                                                                                                                                                                                                                                                                          	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*general                          	| [Mutation][mutation-general]                                                                                                                                                                                                                                                                                                                                                                                    	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*general                          	| [Mutability in Python][mutability]                                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*general                          	| [Polymorphism][polymorphism-general]                                                                                                                                                                                                                                                                                                                                                                            	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*general                          	| [Recursive data structures][recursive-data-structures]                                                                                                                                                                                                                                                                                                                                                          	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*general                          	| [Scope][scope]                                                                                                                                                                                                                                                                                                                                                                                                  	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*general                          	| [Standard Library][standard-library]                                                                                                                                                                                                                                                                                                                                                                            	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*general                          	| [State][state]                                                                                                                                                                                                                                                                                                                                                                                                  	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [Arguments & Parameters][arguments-and-parameters]                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [Duck Typing][duck-typing]                                                                                                                                                                                                                                                                                                                                                                                      	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [Dynamic Typing][dynamic-typing]                                                                                                                                                                                                                                                                                                                                                                                	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [Everything-is-an-object][everything-is-an-object]                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [del][keyword-del]                                                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [Expressions][expressions]                                                                                                                                                                                                                                                                                                                                                                                      	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [Identity testing][identity-testing]                                                                                                                                                                                                                                                                                                                                                                            	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [Immutability][immutability]                                                                                                                                                                                                                                                                                                                                                                                    	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [Immutability in Python][immutability]                                                                                                                                                                                                                                                                                                                                                                          	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [Operators][operators]                                                                                                                                                                                                                                                                                                                                                                                          	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [Operator precedence][operator-precedence]                                                                                                                                                                                                                                                                                                                                                                      	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [Order of Evaluation][order-of-evaluation]                                                                                                                                                                                                                                                                                                                                                                      	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [type][builtin-types-type]                                                                                                                                                                                                                                                                                                                                                                                      	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
+| \*no stand-alone                   	| [type conversion][type-conversion]                                                                                                                                                                                                                                                                                                                                                                              	| [ ]()                                                                                                                	| [ ]()                                                                                                           	|                                                                                                                                        	|
