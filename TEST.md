@@ -669,20 +669,22 @@ _These will very rarely be encountered in the wild, the first because it's more 
 <br><br>
 
 ## Implementations in Progress
-<br>
 
-#### Identified concepts that need:
+#### Identified concepts needing:
 1.  Issues logged (_Blank issue entry_)
 2.  PRs written (_Issue logged but no PRs/exercise_)
-3.  Are "in process" with completed concept exercise/PR as noted
+3.  Are "in process" with PRs as noted (_or have a completed concept exercise*_)
 
-For "live"/"completed" concept exercises, see the [Python Exercises][python-exercises] table in the `exercices/README.md` doc.
+*For "live"/"completed" concept exercises, see the [Python Exercises][python-exercises] table in the `exercices/README.md` doc.
+
+
+<br>
 
 _Concepts flagged as **general** are broad enough that we are questioning if they need a specific concept exercise._
 <br>
 _Concepts flagged **no stand alone** are explained/utilized across multiple concept exercises._
 
-<br>
+
 
 | Concept Name                       	| Topics Included                                                                                                                                                                                                                                                                                                                                                                                                 	| Issue Link                                                                                                           	| PR Link                                                                                                         	| Exercise Name                                                                                                                          	|
 |------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------	|
