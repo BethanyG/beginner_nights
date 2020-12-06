@@ -7,6 +7,10 @@ Python is an interpreted, dynamically (but strongly) typed, and garbage-collecte
 Below are the concepts that were extracted/identified in Python based on Exercism's V2 exercises and topics in the [Python 3 Documentation](https://docs.python.org/3/) -- specifically the [Python Tutorial](https://docs.python.org/3/tutorial/index.html) and the [Python Library Reference](https://docs.python.org/3/library/index.html)
 
 ### Unique to Python
+<details>
+    <summary> "Pythonic"/Python Community
+      <br>
+    </summary>
 
 - [ ] [The Zen of Python][zen-of-python]
 - [ ] [Pythonic][pythonic]
@@ -14,6 +18,7 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 - [ ] [PEP 8][pep-8-style-guide]
 - [ ] [Dunder Methods][dunder-methods]
 
+</details>
 <br>
 
 ### Baseline
