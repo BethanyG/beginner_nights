@@ -20,7 +20,7 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 
 
 <details>
-    <summary> Concepts introduced "basics"
+    <summary> Concepts Introduced in "Guidos Gorgeous Lasagna":
       <br>
     </summary>
 
@@ -54,7 +54,7 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 
 
 <details>
-    <summary> Core concepts/exercises
+    <summary> Current "core" concepts/exercises:
       <br>
     </summary>
 
@@ -119,9 +119,6 @@ Below are the concepts that were extracted/identified in Python based on Exercis
         - [ ] [`return`][keyword-return]
         - [ ] [`none`][keyword-none]
 
-  - [ ] [Anonymous functions][anonymous-functions-general]
-    - [ ] [`lambda`][keyword-lambda]
-
   - [ ] [Nested functions][nested-functions]
 
   - [ ] [Type hinting][type-hinting]
@@ -129,6 +126,12 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 
 - [ ] [Identity testing][identity-testing]
   - [ ] [`is`][keyword-is]
+
+- [ ] [Importing][importing]
+  - [ ] [relative imports][relative-imports]
+  - [ ] [`import`][keyword-import]
+  - [ ] [`from`][keyword-from]
+  - [ ] [`as`][keyword-as]
 
 - [ ] [Iteration][iteration]
   - [ ] [Iterables][iterables]
@@ -221,6 +224,9 @@ Below are the concepts that were extracted/identified in Python based on Exercis
   - [ ] [`as`][keyword-as]
   - [ ] [`import`][keyword-import]
 
+- [ ] [Anonymous functions][anonymous-functions-general]
+  - [ ] [`lambda`][keyword-lambda]
+
 - [ ] [`bytes`][builtin-types-bytes]
   - [ ] [`bytearray`][builtin-types-bytearray]
 
@@ -264,17 +270,10 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 - [ ] [Partial application][partial-application]
   - [ ] TODO: `functools.partial`
 
-- [ ] [Importing][importing]
-  - [ ] [relative imports][relative-imports]
-  - [ ] [`import`][keyword-import]
-  - [ ] [`from`][keyword-from]
-  - [ ] [`as`][keyword-as]
-
 - [ ] [Recursion][recursion]
   - [ ] TODO: explain limitations of recursion in Python, ie `RecursionLimit`
 
 - [ ] [Regular Expressions][regular-expressions]
-
 
 </details>
 
