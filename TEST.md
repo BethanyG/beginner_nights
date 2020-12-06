@@ -16,13 +16,15 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 - [ ] [Dunder Methods][dunder-methods]
 
 
-## Baseline concepts introduced in the "basics" exercise
+## Baseline
 
 
 <details>
-    <summary> Entrypoint
+    <summary> Concepts introduced "basics"
       <br>
     </summary>
+
+<br>
 
 - [ ] [Arithmetic][arithmetic-general]
 - [ ] [Assignment][assignment]
@@ -48,13 +50,15 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 </details>
 
 
-## General concepts
+## General concepts needed for a good working understanding of the language
 
 
 <details>
-    <summary> Core
+    <summary> Core concepts/exercises
       <br>
     </summary>
+
+<br>
 
 - [ ] [Argument unpacking][argument-unpacking]
 - [ ] [Arithmetic][arithmetic-general]
@@ -204,12 +208,14 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 </details>
 
 
-## Intermediate Concepts
+## Concepts needed for a deeper understanding/fluency
 
 <details>
-    <summary> Intermediate
+    <summary> "Intermediate" concepts/exercises
       <br>
     </summary>
+
+<br>
 
 - [ ] Aliasing
   - [ ] [`as`][keyword-as]
@@ -277,11 +283,11 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 
 
 <details>
-    <summary> OOP-Specific
+    <summary> OOP-Specific/Class oriented exercises
       <br>
     </summary>
 
-
+<br>
 
 - [ ] [Objects][objects-general]
   - [ ] [Everything is an object][everything-is-an-object]
@@ -339,12 +345,14 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 </details>
 
 
-## Advanced concepts (probably outside scope of Exercism)
+## Advanced concepts (probably outside scope of Exercism Concept exercises, but good for longer practice exercises)
 
 <details>
-    <summary> Advanced/Specialized
+    <summary> Advanced/Specialized Concepts
       <br>
     </summary>
+
+<br>
 
 - [ ] Asynchronous operatons
   - [ ] [`async`][keyword-async]
