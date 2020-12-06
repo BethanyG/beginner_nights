@@ -23,6 +23,9 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 ### Baseline
 
 <details>
+    <summary> Concepts Introduced in "Guidos Gorgeous Lasagna":
+      <br>
+    </summary>
 <br>
 
 - [ ] [Arithmetic][arithmetic-general]
