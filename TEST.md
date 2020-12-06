@@ -15,6 +15,7 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 - [ ] [PEP 8][pep-8-style-guide]
 - [ ] [Dunder Methods][dunder-methods]
 
+<br>
 
 ## Baseline
 
@@ -48,7 +49,7 @@ Below are the concepts that were extracted/identified in Python based on Exercis
   - [ ] [Variables][variables]
 
 </details>
-
+<br>
 
 ## General concepts needed for a good working understanding of the language
 
@@ -209,7 +210,7 @@ Below are the concepts that were extracted/identified in Python based on Exercis
     - [ ] [Constants][constants]
 
 </details>
-
+<br>
 
 ## Concepts needed for a deeper understanding/fluency
 
@@ -276,9 +277,9 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 - [ ] [Regular Expressions][regular-expressions]
 
 </details>
+<br>
 
-
-### Specific Object-Oriented Concepts
+## Specific Object-Oriented Concepts
 
 
 <details>
@@ -342,9 +343,10 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 
 
 </details>
+<br>
 
-
-## Advanced concepts (probably outside scope of Exercism Concept exercises, but good for longer practice exercises)
+## Specialized Concepts
+_(probably outside scope of Exercism Concept exercises, but good for longer practice exercises)_
 
 <details>
     <summary> Advanced/Specialized Concepts
