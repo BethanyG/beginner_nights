@@ -51,7 +51,8 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 </details>
 <br>
 
-## General concepts needed for a good working understanding of the language
+## General
+_Concepts needed for a good working understanding of the language_
 
 
 <details>
@@ -212,7 +213,8 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 </details>
 <br>
 
-## Concepts needed for a deeper understanding/fluency
+## Detailed
+_Concepts needed for a deeper understanding/fluency_
 
 <details>
     <summary> "Intermediate" concepts/exercises
@@ -345,8 +347,8 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 </details>
 <br>
 
-## Specialized Concepts
-_(probably outside scope of Exercism Concept exercises, but good for longer practice exercises)_
+## Specialized
+_(These are probably outside scope of Exercism Concept exercise, but perhaps good for longer practice exercises that are mentored)_
 
 <details>
     <summary> Advanced/Specialized Concepts
