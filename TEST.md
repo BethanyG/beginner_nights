@@ -321,7 +321,7 @@ _Concepts needed for a deeper understanding/fluency_
 </details>
 <br>
 
-## Specific Object-Oriented Concepts
+## Object-Oriented Specific
 
 <details>
     <summary> OOP-Specific/Class oriented exercises
