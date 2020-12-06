@@ -32,7 +32,6 @@ Below are concepts that were extracted/identified in Python based on Exercism's 
       <br>
     </summary>
 
-
 - [ ] [Arithmetic][arithmetic-general]
 - [ ] [Assignment][assignment]
 - [ ] [Comments][comments-general]
@@ -68,7 +67,6 @@ _Concepts needed for a good working understanding of the language_
     <summary> Current "Core" Concepts:
       <br>
     </summary>
-
 
 - [ ] [Argument unpacking][argument-unpacking]
 - [ ] [Arithmetic][arithmetic-general]
@@ -257,7 +255,6 @@ _Concepts needed for a deeper understanding/fluency_
       <br>
     </summary>
 
-
 - [ ] Aliasing
 
   - [ ] [`as`][keyword-as]
@@ -334,7 +331,6 @@ _Concepts needed for a deeper understanding/fluency_
       <br>
     </summary>
 
-
 - [ ] [Objects][objects-general]
 
   - [ ] [Everything is an object][everything-is-an-object]
@@ -405,7 +401,6 @@ _(These are probably outside scope of Exercism Concept exercise, but perhaps goo
     <summary> Advanced/Specialized Concepts
       <br>
     </summary>
-
 
 - [ ] Asynchronous operatons
   - [ ] [`async`][keyword-async]
