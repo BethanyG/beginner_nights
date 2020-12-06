@@ -1,7 +1,8 @@
 # Python reference
 
 Python is an interpreted, dynamically (but strongly) typed, and garbage-collected general programming language that has become extremely popular due to its readability, low barrier for entry, and exceptionally deep ecosystem of libraries and tools. Python is object-based, but is inherently multi-paradigm and has drawn together influences from a wide range of programming languages, including ABC, Haskell, Lisp, and Modula-3. It is ideal for prototyping and ad-hoc tasks, but also sees wide use in scientific computing, web development, and automation.
-______________
+
+___________
 
 Below are the concepts that were extracted/identified in Python based on Exercism's V2 exercises and topics in the [Python 3 Documentation](https://docs.python.org/3/) -- specifically the [Python Tutorial](https://docs.python.org/3/tutorial/index.html) and the [Python Library Reference](https://docs.python.org/3/library/index.html)
 
@@ -18,14 +19,15 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 - [ ] [Dunder Methods][dunder-methods]
 
 </details>
+<br>
 
 ## Baseline
 
 <details>
-    <summary> Concepts Introduced in "Guidos Gorgeous Lasagna":
+    <summary> Concepts Introduced in the "Basics" Exercise (_Guidos Gorgeous Lasagna_):
       <br>
     </summary>
-<br>
+
 
 - [ ] [Arithmetic][arithmetic-general]
 - [ ] [Assignment][assignment]
@@ -52,17 +54,17 @@ Below are the concepts that were extracted/identified in Python based on Exercis
   - [ ] [Variables][variables]
 
 </details>
+<br>
 
 ## General
 
 _Concepts needed for a good working understanding of the language_
 
 <details>
-    <summary> Current "core" concepts/exercises:
+    <summary> Current "Core" Concepts:
       <br>
     </summary>
 
-<br>
 
 - [ ] [Argument unpacking][argument-unpacking]
 - [ ] [Arithmetic][arithmetic-general]
@@ -240,17 +242,17 @@ _Concepts needed for a good working understanding of the language_
     - [ ] [Constants][constants]
 
 </details>
+<br>
 
 ## Detailed
 
 _Concepts needed for a deeper understanding/fluency_
 
 <details>
-    <summary> "Intermediate" concepts/exercises
+    <summary> "Intermediate" Concepts
       <br>
     </summary>
 
-<br>
 
 - [ ] Aliasing
 
@@ -319,15 +321,15 @@ _Concepts needed for a deeper understanding/fluency_
 - [ ] [Regular Expressions][regular-expressions]
 
 </details>
+<br>
 
-### Object-Oriented Specific
+## Object-Oriented Specific
 
 <details>
-    <summary> OOP-Specific/Class oriented exercises
+    <summary> OOP-Specific/Class Oriented Concepts
       <br>
     </summary>
 
-<br>
 
 - [ ] [Objects][objects-general]
 
@@ -389,8 +391,9 @@ _Concepts needed for a deeper understanding/fluency_
     - [ ] [`typing`][typing-module]
 
 </details>
+<br>
 
-### Specialized
+## Specialized
 
 _(These are probably outside scope of Exercism Concept exercise, but perhaps good for longer practice exercises that are mentored)_
 
@@ -399,7 +402,6 @@ _(These are probably outside scope of Exercism Concept exercise, but perhaps goo
       <br>
     </summary>
 
-<br>
 
 - [ ] Asynchronous operatons
   - [ ] [`async`][keyword-async]
