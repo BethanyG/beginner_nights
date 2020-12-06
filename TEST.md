@@ -6,7 +6,7 @@ Python is an interpreted, dynamically (but strongly) typed, and garbage-collecte
 
 Below are the concepts that were extracted/identified in Python based on Exercism's V2 exercises and topics in the [Python 3 Documentation](https://docs.python.org/3/) -- specifically the [Python Tutorial](https://docs.python.org/3/tutorial/index.html) and the [Python Library Reference](https://docs.python.org/3/library/index.html)
 
-## Unique to Python
+### Unique to Python
 
 - [ ] [The Zen of Python][zen-of-python]
 - [ ] [Pythonic][pythonic]
@@ -16,7 +16,7 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 
 <br>
 
-## Baseline
+### Baseline
 
 <details>
     <summary> Concepts Introduced in "Guidos Gorgeous Lasagna":
@@ -52,7 +52,7 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 </details>
 <br>
 
-## General
+### General
 
 _Concepts needed for a good working understanding of the language_
 
@@ -241,7 +241,7 @@ _Concepts needed for a good working understanding of the language_
 </details>
 <br>
 
-## Detailed
+### Detailed
 
 _Concepts needed for a deeper understanding/fluency_
 
@@ -321,7 +321,7 @@ _Concepts needed for a deeper understanding/fluency_
 </details>
 <br>
 
-## Object-Oriented Specific
+### Object-Oriented Specific
 
 <details>
     <summary> OOP-Specific/Class oriented exercises
@@ -392,7 +392,7 @@ _Concepts needed for a deeper understanding/fluency_
 </details>
 <br>
 
-## Specialized
+### Specialized
 
 _(These are probably outside scope of Exercism Concept exercise, but perhaps good for longer practice exercises that are mentored)_
 
