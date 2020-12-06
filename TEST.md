@@ -676,10 +676,10 @@ _Concepts flagged as **general** are broad enough that we are questioning if the
 _Concepts flagged **no stand alone** are explained/utilized across multiple concept exercises._
 
 
-#### Identified concepts needing:
+#### Below are identified concepts needing:
 1.  Issues logged (_Blank issue entry_)
-2.  PRs written (_Issue logged but no PRs/exercise_)
-3.  Possible Imrovements (_these are "in process" with PRs as noted or the exercise has been completed_)
+2.  PRs written (_An issue's been logged but there is no PRs/exercise_)
+3.  Possible Imrovements (_PRs as noted /the exercise has been completed, but could be iterated on_)
 
 <br>
 
