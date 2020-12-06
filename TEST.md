@@ -19,7 +19,6 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 - [ ] [Dunder Methods][dunder-methods]
 
 </details>
-<br>
 
 ### Baseline
 
@@ -55,7 +54,6 @@ Below are the concepts that were extracted/identified in Python based on Exercis
   - [ ] [Variables][variables]
 
 </details>
-<br>
 
 ### General
 
@@ -244,7 +242,6 @@ _Concepts needed for a good working understanding of the language_
     - [ ] [Constants][constants]
 
 </details>
-<br>
 
 ### Detailed
 
@@ -324,7 +321,6 @@ _Concepts needed for a deeper understanding/fluency_
 - [ ] [Regular Expressions][regular-expressions]
 
 </details>
-<br>
 
 ### Object-Oriented Specific
 
@@ -395,7 +391,6 @@ _Concepts needed for a deeper understanding/fluency_
     - [ ] [`typing`][typing-module]
 
 </details>
-<br>
 
 ### Specialized
 
