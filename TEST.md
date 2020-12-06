@@ -666,7 +666,7 @@ _These will very rarely be encountered in the wild, the first because it's more 
 [while-loops]: ./concepts/while_loops.md
 [zen-of-python]: ./concepts/zen_of_python.md
 
-<br><br>
+<br>
 
 ## Implementations in Progress
 See the [Python Exercises][python-exercises] table in the `exercices/README.md` doc for committed "live" on website concept exercises.
