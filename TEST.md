@@ -7,6 +7,7 @@ Python is an interpreted, dynamically (but strongly) typed, and garbage-collecte
 Below are the concepts that were extracted/identified in Python based on Exercism's V2 exercises and topics in the [Python 3 Documentation](https://docs.python.org/3/) -- specifically the [Python Tutorial](https://docs.python.org/3/tutorial/index.html) and the [Python Library Reference](https://docs.python.org/3/library/index.html)
 
 ### Unique to Python
+<p>
 <details>
     <summary> "Pythonic"/Python Community
       <br>
@@ -19,6 +20,7 @@ Below are the concepts that were extracted/identified in Python based on Exercis
 - [ ] [Dunder Methods][dunder-methods]
 
 </details>
+</p>
 
 ### Baseline
 
