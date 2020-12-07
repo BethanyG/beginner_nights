@@ -122,7 +122,7 @@ _Concepts needed for a good working understanding of the language_
 
 - [ ] [Functions][functions-general]
 
-  - [ ] [Function Definition][function_definition]
+  - [ ] [Function Definition][function-definition]
 
     - [ ] [`def`][keyword-def]
     - [ ] [Function signature][function-signature]
@@ -132,8 +132,8 @@ _Concepts needed for a good working understanding of the language_
       - [ ] [Keyword parameters][keyword-parameters]
       - [ ] [Keyword-only parameters][keyword-only-parameters]
       - [ ] [Default arguments][default-arguments]
-      - [ ] [`\*args``][star-args]
-      - [ ] [`\*\*kwargs``][star-star-kwargs]
+      - [ ] [`\*args`][star-args]
+      - [ ] [`\*\*kwargs`][star-star-kwargs]
       - [ ] [Return Values][return-value]
         - [ ] [`return`][keyword-return]
         - [ ] [`none`][keyword-none]
@@ -186,7 +186,7 @@ _Concepts needed for a good working understanding of the language_
 
     - [ ] [cmath][library-cmath]
 
-  - [ ] [`fractions`][library-fractionsraction]
+  - [ ] [`fractions`][library-fractions]
   - [ ] [`decimal`][library-decimal]
   - [ ] [math][library-math]
 
