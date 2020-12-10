@@ -789,3 +789,19 @@ See the [**Python Exercises Table**][python-exercises] (_`exercices/README.md`_)
 _Concepts flagged as **general** are broad enough that we are questioning if they need a specific concept exercise._
 <br>
 _Concepts flagged **no stand alone** are explained/utilized across multiple concept exercises._
+
+
+```pre
+📦concept
+ ┣ 📂chaitanas-colossal-coaster
+ ┃ ┣ 📂.docs
+ ┃ ┃ ┣ 📜hints.md
+ ┃ ┃ ┣ 📜instructions.md
+ ┃ ┃ ┗ 📜introduction.md
+ ┃ ┣ 📂.meta
+ ┃ ┃ ┣ 📜config.json
+ ┃ ┃ ┣ 📜design.md
+ ┃ ┃ ┗ 📜example.py
+ ┃ ┣ 📜list_methods.py
+ ┃ ┗ 📜list_methods_test.py
+ ```
